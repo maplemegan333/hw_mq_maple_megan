@@ -8,7 +8,7 @@
 
 * [Mozilla Developer Network - Viewport Meta Tag](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag)
     * I used this to create get my viewport meta tag.
-    * [Mozilla Developer Network - @Media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
+* [Mozilla Developer Network - @Media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
         * Reviewed this to make sure my media queries were done properly.
 * [EditorConfig](http://editorconfig.org/)
     * Used this to construct my editorconfig file. Cause let's face it, I still don't have this code memorized.
