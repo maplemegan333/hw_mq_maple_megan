@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: #696773;
+}
+
+@media (min-width: 714px) and (max-width: 959px) {
+
+    body {
+        background-color: #009fb7;
+    }
+}
